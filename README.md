@@ -8,8 +8,8 @@ Usage
 =========
 1.Launch loader.exe to load driver and bitmap.
 
-2.You may crash the kernel manually to view the effect. Use tools like Sysinternals NotMyFault if you want.(http://live.sysinternals.com/Files/NotMyFault.zip)
+2.You may crash the kernel manually to view the effect, ie. http://live.sysinternals.com/Files/NotMyFault.zip
 
-Snapshot
+Preview
 =========
 ![snap](Photo.jpg)
